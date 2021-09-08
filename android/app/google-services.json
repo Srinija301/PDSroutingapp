@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "570421852773",
+    "project_id": "miniproject-c9ac3",
+    "storage_bucket": "miniproject-c9ac3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570421852773:android:e3821d81732759a868e48c",
+        "android_client_info": {
+          "package_name": "com.srinija.pds_route"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570421852773-o74dapnvgqn5kv5cous1nnfb8be9f84v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfajb6RBk_zXkfr8LqhZRThq4_AucTe20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570421852773-o74dapnvgqn5kv5cous1nnfb8be9f84v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
